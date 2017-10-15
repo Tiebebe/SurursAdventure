@@ -1,0 +1,16 @@
+C:\Users\elias\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csprojResolveAssemblyReference.cache
+C:\Users\elias\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\Users\elias\source\repos\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+C:\Users\elias\source\repos\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\Users\elias\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+C:\Users\elias\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
+C:\Users\elias\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.g.resources
+C:\Users\Tiebebe\Downloads\AdventureGame (L)\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\Users\Tiebebe\Downloads\AdventureGame (L)\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+C:\Users\Tiebebe\Downloads\AdventureGame (L)\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
+C:\Users\Tiebebe\Downloads\AdventureGame (L)\AdventureGame\AdventureGame\bin\Debug\PUNCH.wav
+C:\Users\Tiebebe\Downloads\AdventureGame (L)\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+C:\Users\Tiebebe\Downloads\AdventureGame (L)\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\Users\Tiebebe\Downloads\AdventureGame (L)\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csprojResolveAssemblyReference.cache
+C:\Users\Tiebebe\Downloads\AdventureGame (L)\AdventureGame\AdventureGame\obj\Debug\AdventureGame.g.resources
